@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f60d7b2.css",
+    "main.js": "/static/js/main.45834b33.js",
+    "static/media/bannerImgTwo.jpg": "/static/media/bannerImgTwo.bc1bdb910ead16c65197.jpg",
+    "static/media/bannerImgFour.jpg": "/static/media/bannerImgFour.8f7fc6b56e74dba2b6f9.jpg",
+    "static/media/bannerImgOne.jpg": "/static/media/bannerImgOne.efb3d39101f7ef77d616.jpg",
+    "static/media/bannerImgThree.jpg": "/static/media/bannerImgThree.c80809bb40bee5c34372.jpg",
+    "static/media/bannerImgFive.jpg": "/static/media/bannerImgFive.aa945e25375bfdee385f.jpg",
+    "static/media/makitilogo.png": "/static/media/makitilogo.f0d412ea4a53f34d33dc.png",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.3f60d7b2.css.map": "/static/css/main.3f60d7b2.css.map",
+    "main.45834b33.js.map": "/static/js/main.45834b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f60d7b2.css",
+    "static/js/main.45834b33.js"
+  ]
+}
