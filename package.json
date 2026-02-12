@@ -2,6 +2,15 @@
   "name": "makitima",
   "version": "0.1.0",
   "private": true,
+  "description": "This project was bootstrapped with Create React App",
+  "main": "tailwind.config.js",
+  "homepage": "https://ibangoura.github.io/makitionline-project",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
@@ -31,40 +40,11 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
-  
-    "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-
-
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "nodemon": "^3.1.11",
     "tailwindcss": "^3.4.18"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "tailwind.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ibangoura/makitionline-project.git"
@@ -75,6 +55,11 @@
   "bugs": {
     "url": "https://github.com/ibangoura/makitionline-project/issues"
   },
-  "homepage": "https://ibangoura.github.io/makitionline-project"
-
+  "eslintConfig": {
+    "extends": ["react-app", "react-app/jest"]
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  }
 }
