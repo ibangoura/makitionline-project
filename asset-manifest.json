@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/makitionline-project/static/css/main.016c2c19.css",
-    "main.js": "/makitionline-project/static/js/main.25d0f9f0.js",
+    "main.css": "/makitionline-project/static/css/main.972eda85.css",
+    "main.js": "/makitionline-project/static/js/main.9c4b5b31.js",
+    "static/media/makitilogo.png": "/makitionline-project/static/media/makitilogo.f0d412ea4a53f34d33dc.png",
     "index.html": "/makitionline-project/index.html",
-    "main.016c2c19.css.map": "/makitionline-project/static/css/main.016c2c19.css.map",
-    "main.25d0f9f0.js.map": "/makitionline-project/static/js/main.25d0f9f0.js.map"
+    "main.972eda85.css.map": "/makitionline-project/static/css/main.972eda85.css.map",
+    "main.9c4b5b31.js.map": "/makitionline-project/static/js/main.9c4b5b31.js.map"
   },
   "entrypoints": [
-    "static/css/main.016c2c19.css",
-    "static/js/main.25d0f9f0.js"
+    "static/css/main.972eda85.css",
+    "static/js/main.9c4b5b31.js"
   ]
 }
